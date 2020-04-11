@@ -1,2 +1,2 @@
 # runtime_matlab
-containts matlab runtimes
+contains matlab runtimes
